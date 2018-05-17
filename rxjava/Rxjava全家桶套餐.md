@@ -1,26 +1,32 @@
-Rxjava全家桶套餐
+#Rxjava系列
 
-1.RxJava2
+- RxJava2   
 
-2.Retrofit
+- Retrofit
 
-3.Dragger2
+- Dragger2
 
-4.RxLifeCycle
+- RxLifeCycle
 
-5.MVP
+- MVP
 
-6.OkHttp
+- OkHttp
 
-7.生命周期
+- 生命周期
 
-8.RxErrorhandler 
+- RxErrorhandler 
 
-9.RxBus
+- RxBus
 
-10.RxBinding
+- RxBinding
 
-11.一些操作符以及原理
+- 一些操作符以及原理
 
+  
 
+![1526545109253](C:\Users\ADMINI~1\AppData\Local\Temp\1526545109253.png)
+
+参考地址：[https://github.com/jingzhishang](https://github.com/jingzhishang)
+
+## 一.Rxjava2
 
