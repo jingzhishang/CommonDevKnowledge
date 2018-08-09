@@ -24,7 +24,7 @@
 
   
 
-![image]([CommonDevKnowledge](https://github.com/jingzhishang/CommonDevKnowledge)/[xing_image](https://github.com/jingzhishang/CommonDevKnowledge/tree/master/xing_image)/**pkq.jpg** )
+
 
 参考地址：[https://github.com/jingzhishang](https://github.com/jingzhishang)
 
