@@ -19,7 +19,8 @@
 [Android常见原理性问题](https://github.com/oo1993448102/CommonDevKnowledge/blob/master/android/%EF%BC%88%E4%B8%89%EF%BC%89%E5%B8%B8%E8%A7%81%E7%9A%84%E4%B8%80%E4%BA%9B%E5%8E%9F%E7%90%86%E6%80%A7%E9%97%AE%E9%A2%98.md)
 
 ### RxJava
-[rxjava全家桶](https://github.com/oo1993448102/CommonDevKnowledge/blob/master/rxjava/Rxjava%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%A5%97%E9%A4%90.md)
+
+[rxjava全家桶](https://github.com/jingzhishang/CommonDevKnowledge/blob/master/rxjava/Rxjava%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%A5%97%E9%A4%90.md)
 
 
 ### Gradle
